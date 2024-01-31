@@ -1,0 +1,93 @@
+09:15:48.411 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+09:15:48.423 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Fastly-Request-ID: d2b70290552d6e2cf75daa3d02a665885ab0f842
+09:15:48.423 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Expires: Fri, 12 Jan 2024 03:50:48 GMT
+09:15:48.423 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Source-Age: 268
+09:15:48.431 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 connection can be kept alive for 3 MINUTES
+09:15:48.465 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]V]o[0xffffffda]0[0x14]}[0xffffffe7]W\[0xffffff81]*[0xffffffb5][0x12][0x1f][[M[0xffffffd3]$[0x1e]hF[0xffffffbb]i [0x18][0xffffffb4][0xffffffdd]&[0xfffffff9][0xffffffc5]$7[0xffffffc1]R[0x12]#;[0xffffff94]v[0xffffffbf]~[0xffffffb6][0xfffffff3]1[0xffffff92][0xffffff9a][0xffffffc1][0x1a]x[0xffffffcb][0xffffffb5][0xffffffaf][0xffffffcf]9[0xffffffbe][0xfffffff7]8v[0xb][0x1c][0x1e]E4[0xfffffff6]$x4[0xffffffa1][0xb]*[0xffffffb1][0xffffffd1][0xffffff82][0xfffffffb]%[0xffffff93][0xffffffe0][0xffffffb3][0x10][0xffffffc1][0xffffffe5]qBY,!Y[0xffffffea] KM8,[0x10][0xfffffff0][0x19][0xffffffdd]u[0xffffff82][0x1e][0xffffffb0][0xffffffd8]L[0xffffffcb]%[0xffffff86][0xffffffa1][0xe][0xffffffb8][0xfffffff0]P[0xffffffe8]$[0xf][0x13]t[0x13]3[0xfffffff9][0xffffff84]B2[0xffffffae][0xffffffe6]|@[0xfffffff5][0x1d][0x8][0xffffffc4][0x18][0x16][0xffffff82]o[0xffffffa4][0xffffff9a]P[0xffffff94][0xffffffe7][0xffffffce]R[0xfffffff0][0x8][0xffffffdb]p[0xffffffcb][0x4][0xfffffffa][0xfffffffc][0xffffffb9][\r][0xffffff93][0x15][\n]"
+09:15:48.466 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0xffffffda][0xffffff86][0xffffffa1][0x17][0xffffffa8]Q3[0xffffffcb][0xffffffd6][0xffffffd1][0xffffff85][0xffffffc6][0xfffffff7][0xffffff98][0xffffffef][0xffffffa3][0xffffffc0]8[0x1][0xffffffae]s[0x12][0x16][0x7] _d[0xffffff82][0xffffff91][0xffffff84][0xfffffff3][0x1f],[0xfffffff6][0x14]j[0x1b]F,^+[0xffffff98]1ua2[0xffffffbf]h([0xffffff8e][0xffffff94][0xffffffa2][0xffffff91]m[0xffffffa3][0xffffffeb][0xffffff9a][0xffffffb0][0xffffffbb]I[0x17]t[0xffffffdf][0xffffffbd][0xffffffef][0xffffffbb][0xffffff91][0xffffffd7]U[0xffffffbb][0xffffff82][0xffffff9e][0x3][0xffffff9b][0xffffff88][0xffffffb9][0xffffffa6]$[0xffffffa6][0xc][0xffffff9b][0xffffffa5][0xffffffe2][0xffffff83][0xffffff98]F[0xffffffd8]o[0xffffff9e]Mg[0xffffff93][0xffffffbb][0xffffffd9]`|[0xfffffffb]u4[0xffffff9c][0x7f]"}B[0xffffffce][0x8][0xffffffb9][0xffffffe3]<[0x8][0xffffff91][0xffffff90][0xffffff94][0xffffff82][0xffffff90][0xffffffc1]j[0x15]2WI[0xffffffe3]1![0x19][0xffffff91]BnB[0xffffff80][0x9]<f[0xffffffb5][0xffffffe8]=[0xffffffd1]p[0xffffffbd][[0xffffffcf][0xffffffe5][0x1b][0xfffffff4][0xffffff9c][0xffffffff][0xfffffffc][0xfffffff8][0xffffffe1][0xffffffe2][0xffffff94][0xffffffa2][0xffffffae][0xe][0x14]5[0xffffff9a]8[0xffffff83][0xffffffd1]`:[0xfffffffd]<[0xffffffb8][0x1f][0xffffff9c]R[0xffffffcf]u[0x7f]6[0xffffffbc][0xffffff83][0xffffffef][0xf][0xffffffc3][0xffffffd9]/[0xfffffff8][0xfffffff2][0xffffffcd]y s[0xffffffee]'[0x1b]*0g[0xffffffcb][0xffffffc8]nF7H][0xffffff83][0xffffff97]{[0xffffffb1]Q[0x5][\r][0xffffffb5]c[0xffffffb4][0xf][0x2][0xffffffb3][0xffffffb4][0xffffff93][0xe]C[0xffffffa7][0xffffffb3]kAD][0xffffff9d][0xffffffde][0xffffffdb][0xffffffda][0xffffff88][0xffffffec][0xffffffa5][0xffffffbc][0xffffff99][0xffffffd9][0xffffffba]t[0xffffffb5][0xffffffea]9[0xffffffea][0x10])[0xffffffb7][0xffffffca][0xffffff9e][0xfffffff2][0xffffffe2]d^N[0xffffffd8]FW[0x16][0xffffffcd][0xffffffdc]_[0x10][0xfffffff9]i|[0x1c][0xffffff93][0xffffff8e][0xfffffff9]o[0x16][0xffffff86]4'!$G[0xffffffdf]W[0xfffffff4]W*j[[0xfffffff3]xR[0xffffffae][0xffffffb6][0xc][0xffffffd0],; #[0xffffffa9][0xffffff92]5[0xffffffb5][0x7][0xffffff9c][0xffffffb5][0xffffffd0][0x7f][0xffffff90][0xffffffc7]jgs[0xfffffffc][0xffffffc2][0xb][0xffffffd9][0x0]t[0xffffff9e]^'Y[0xfffffffb][0xffffff9f][0xffffffb1][0xffffffd8]:[0xffffffbf][0xffffff8d][0xffffffa5][0xffffff9a][0xffffffad][0x7f]m[0x5]&[0xffffffaa][0xffffffa0]^[0xffffff9b][0xffffffcb][0x5]f[0xffffffae][0xffffffe0]RU[0xffffff82][0x10]MS9l[0xffffff91]4t[0xfffffffb][0xffffff8a]][0xffffffd6][0xfffffff4][0xffffff96][0xffffffa6][0xffffff9f]P[0xffffffce][0xffffffd5][0xffffffce][0xffffff93][0xffffffff][0xffffff97][0xffffffcc]p[0xfffffffd][0xfffffff3][0xffffffe8][0x1b][0xffffffcc][0xffffffa2][0xffffffd9]Q[0xffffffbe][0xffffffb2][0xffffffa3][0xffffffc7]m'[0xffffffdf][0xffffffe4][[0xfffffffb]^[0xffffffb0][0xffffff9a][0xffffffbe][0xffffffda][0xffffffda]_[0xffffffce][0xffffff80][0xffffffd2][0xffffffc1]7[0xffffffb7]][0xffffffc1]b[0xffffffee][0xffffffb5][0xffffffff]w[0xffffff83][0xffffffed][0xffffffa7];[0x15]<[0x10]4[0xffffff92][0xffffff84][0x18][\n]"
+09:15:48.467 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "BB[0xffffffba][0xffffff8e]][0xffffffb5]jo[0xffffffb9]+"[0xffffffea][0xffffffb4][0xffffffff]h"[0xffffffea]\?5[0xffffffa9][0xffffffaf]k[0xffffffec][0xffffffff]P[0xffffffea][\n]"
+09:15:48.467 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "w[0xffffffe1]K[0x13][0xffffffda][0xffffffec][0xffffff98][0xffffffe6]Y[0xfffffffd]h8m6[0xffffff9c]T[0xffffffc1][0xfffffff2][0xffffffa7][0xffffff91]z_[0xffffff95]o85p[0x1c][0x13][0xffffffe6][0xfffffff0]5[0xffffffee][0xfffffffc][0xffffff92][0xffffff96][0xffffffda][0xfffffff7][0xffffffcf][0xffffffb1][0x5][0x1d][0xffffffea]K[0xffffff9b]9[0xffffff8e][0xffffffad]e[0xfffffff7][0xffffff93][0xffffffa8]`[0xffffffda][0xffffffff][0x1a][0xffffffd2][0xffffff88][0xffffff85][0xfffffffd][0xfffffff2][0xffffff91]N[0xfffffff6]`[0xffffffdf]2[0xffffffcf][0xffffffae]E[0xffffff97][0xffffffc5][0xffffffa2][0xffffff9d][0xffffffef]'[0xffffff9d]mun.[0xffffffd3]f^[0xffffffc7][0xffffff82][0xffffffda][0xffffff82]9[0xfffffff5][0xffffffa9]`[0x5][0xffffffbc]4[0xffffffa1][0x1d]<M[0xffffffb5]A[0xffffffa7]3[[0xffffffc0][0x7f][0x0][0xffffffc1][0xffffffd0]$[0xffffff85][0x1d][\r][0x0][0x0]"
+09:15:48.469 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 releasing valid endpoint
+09:15:48.470 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 releasing endpoint
+09:15:48.470 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection http-outgoing-0 can be kept alive for 3 MINUTES
+09:15:48.471 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connection released [route: {s}->https://raw.githubusercontent.com:443][total available: 1; route allocated: 1 of 5; total allocated: 1 of 25]
+09:15:48.472 [main] DEBUG io.github.bonigarcia.wdm.versions.VersionDetector - Detecting chrome version using online commands.properties
+09:15:48.479 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Running command on the shell: [cmd.exe, /C, wmic, datafile, where, name="%PROGRAMFILES:\=\\%\\Google\\Chrome\\Application\\chrome.exe", get, Version, /value]
+09:15:48.674 [main] DEBUG io.github.bonigarcia.wdm.versions.Shell - Result: Version=120.0.6099.217
+09:15:48.679 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+09:15:48.679 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+09:15:48.684 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Storing resolution chrome=120 in cache (valid until 10:15:48 12/01/2024 IST)
+09:15:48.724 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+09:15:48.726 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+09:16:05.158 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\AppData\Local\Temp\testng-eclipse--186906686\testng-customsuite.xml"
+09:16:05.571 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.577 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+09:16:05.581 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.581 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.593 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+09:16:05.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+09:16:05.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+09:16:05.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.620 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+09:16:05.626 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+09:16:05.638 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\AppData\Local\Temp\testng-eclipse--186906686\testng-customsuite.xml
+
+09:16:05.682 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+09:16:05.883 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@76a36b71: 38 ms
+09:16:05.969 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7f69d591: 86 ms
+09:16:06.000 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5217f3d0: 31 ms
+09:16:06.020 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2fab4aff: 19 ms
+09:16:06.033 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@644c78d4: 12 ms
+09:16:06.046 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4089713: 13 ms
+09:16:06.047 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@f19c9d2: 1 ms
+09:16:13.896 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\eclipse-workspace\Brokerage\master.xml"
+09:16:14.390 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\eclipse-workspace\Brokerage\master.xml
+
+09:16:16.813 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+09:16:17.283 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 10:15:48 12/01/2024 IST)
+09:16:17.285 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+09:16:17.286 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+09:16:17.328 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+09:16:17.330 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+09:16:23.523 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest  ***
+09:16:23.524 [main] DEBUG testCases.TC_001_LoginTest - caputuring application debug logs.......
+09:16:23.555 [main] INFO  testCases.TC_001_LoginTest - *  Providing Username & Pswd  *
+09:16:24.612 [main] INFO  testCases.TC_001_LoginTest - *  Clicked on Login button  *
+09:16:24.669 [main] ERROR testCases.TC_001_LoginTest - *  Test Failed catch block *
+09:19:12.551 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\eclipse-workspace\Brokerage\master.xml"
+09:19:13.051 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\eclipse-workspace\Brokerage\master.xml
+
+09:19:15.651 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+09:19:16.133 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 10:15:48 12/01/2024 IST)
+09:19:16.134 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+09:19:16.136 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+09:19:16.181 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+09:19:16.183 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+09:19:22.912 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest  ***
+09:19:22.913 [main] DEBUG testCases.TC_001_LoginTest - caputuring application debug logs.......
+09:19:22.953 [main] INFO  testCases.TC_001_LoginTest - *  Providing Username & Pswd  *
+09:19:23.922 [main] INFO  testCases.TC_001_LoginTest - *  Clicked on Login button  *
+09:19:50.313 [main] ERROR testCases.TC_001_LoginTest - *  Test Failed catch block *

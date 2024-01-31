@@ -1,0 +1,267 @@
+19:19:35.572 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0xffffffb9]C[0xffffffa9][0xffffff95][0xffffffce][0x1d][0xffffffda][0xffffffb4]t[0xffffffee]P[0xffffffe2]%sG[0xfffffff4]0[0xffffff97];[0xffffffa2][0xffffff96]/[0xffffffe4][0xe][0xffffffd5][0x1b]v[0x1c]d[0x7f][0xffffffc7][0xffffffe1][0xffffffd0][0x1b]vx[0xfffffff4][0xffffff86][0x1d][0xffffffa2][0xffffffbe]f/[0xffffffef]do[0xffffffd8][0x11][\n]"
+19:19:35.578 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "j[0xffffffe0][0xffffffdc][0xffffffe1][0xffffffd3][0x1b]&[0xfffffff9][0xffffffc4]r[0xffffff87]GoX`[0x15][0xffffffc8][0x1d][0xffffffde][0xffffffbd]aJ[0xffffffad]x[0xffffffee][0xffffffb0][0xffffffec][\r]S[0xffffffe2]Es[0xffffff87]QoX[0xffffffd4][0xfffffff2][0xffffff85][0xffffffdc][0xffffff91]T[0xffffffee]H[0x13][0xffffffbc][0xffffffdf][0xfffffff1]2[0x12][0xffffff9f];[0xffffff92]G[0xffffffee]H[0x11][0xffffffff][0xffffffbd][0xffffffbc]'2w$[0xffffffb3][0xffffffdc][0x11][0xffffffc9][0xffffffc4]r[0xffffff87][0xffffffe2][0x13][0xffffffcb][0x1d][0xffffff91]R$w[0xffffffac][0xffffffac][0x2][0xffffffb9]c%[0xffffffd6],w[0x8][0xffffffb5][0xffffffe2][0xffffffb9]C[0xffffff9a][0x16][0xffffffcf][0x1d]B[0xffffffbc]h[0xffffffee][0x8][0x1e][0x6]sG[0xffffffd0][0xfffffff2][0xffffff85][0xffffffdc][0xffffffa1][0xfffffffa];[0xffffff8e][0xffffff92][0xffffffc1][0xfffffff7]Y[0xe][0xffffff87][0xfffffffe][0xffffff8e][0xffffffc3][0xffffffa3][0xffffffbf][0xffffffe3][0x10]k[0xffffffe4]{y'[0xfffffffb];[0xffffff8e][0xffffffb0]([0xe][0xffffffe7][0xe][0xffffff9f][0xfffffffe][0xe][0xffffffc9]'[0xffffff96];<[0xfffffffa];[0x2][0xffffffab]@[0xffffffee][0xfffffff0][0xffffffee][0xffffffef]Pj[0xffffffc5]s[0xffffff87]e[0x7f][0xffffff87][0x12]/[0xffffff9a];[0xffffff8c][0xfffffffa];[0xffffffa2][0xffffff96]/[0xffffffe4][0xffffff8e][0xffffffaa]rG[0xffffffbd][0xffffff91][0xfffffff7];[0xffffffaa]C[0xffffffee][0xffffffa8][0x1e][0xffffffb9][0xffffffa3]F[0xfffffffc][0xfffffff7][0xfffffff2]^[0xffffffc9][0xffffffdc]Q[0xffffffcd]rG$[0x13][0xffffffcb][0x1d][0xffffff8a]O,wDJ[0xffffff91][0xffffffdc][0xffffffb1][0xffffffb2][\n]"
+19:19:35.578 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0xffffffe4][0xffffff8e][0xffffff95]X[0xffffffb3][0xffffffdc]![0xffffffd4][0xffffff8a][0xffffffe7][0xe]iZ<w[0x8][0xfffffff1][0xffffffa2][0xffffffb9]#x[0x18][0xffffffcc][0x1d]A[0xffffffcb][0x17]r[0xffffff87][0xffffffea][\r];jk`[0xffffffee]p[0xffffffe8][\r];<z[0xffffffc3][0xe]Q_[0xffffffb3][0xffffff97]w[0xffffffb2]7[0xffffffec][0x8][0x5]5p[0xffffffee][0xfffffff0][0xffffffe9][\r][0xffffff93]|b[0xffffffb9][0xffffffc3][0xffffffa3]7,[0xffffffb0][\n]"
+19:19:35.578 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0xffffffe4][0xe][0xffffffef][0xffffffde]0[0xffffffa5]V<wX[0xfffffff6][0xffffff86])[0xfffffff1][0xffffffa2][0xffffffb9][0xffffffc3][0xffffffa8]7,j[0xfffffff9]B[0xffffffee]P[0xffffffbd]aG[0xffffff9d][0x9][0xffffffcc][0x1d][0xe][0xffffffbd]a[0xffffff87]Go[0xffffffd8]![0xffffffea]k[0xfffffff6][0xfffffff2]N[0xfffffff6][0xffffff86][0x1d][0xffffffa1][0xffffffa0][0x6][0xffffffce][0x1d]>[0xffffffbd]a[0xffffff92]O,wx[0xfffffff4][0xffffff86][0x5]V[0xffffff81][0xffffffdc][0xffffffe1][0xffffffdd][0x1b][0xffffffa6][0xffffffd4][0xffffff8a][0xffffffe7][0xe][0xffffffcb][0xffffffde]0%^4w[0x18][0xfffffff5][0xffffff86]E-_[0xffffffc8][0x1d][0xffffffaa]7[0xffffffec]hy[0xffffff80][0xffffffb9][0xffffffc3][0xffffffa1]7[0xffffffec][0xfffffff0][0xffffffe8][\r];D}[0xffffffcd]^[0xffffffde][0xffffffc9][0xffffffde][0xffffffb0]#[0x14][0xffffffd4][0xffffffc0][0xffffffb9][0xffffffc3][0xffffffa7]7L[0xfffffff2][0xffffff89][0xffffffe5][0xe][0xffffff8f][0xffffffde][0xffffffb0][0xffffffc0]*[0xffffff90];[0xffffffbc]{[0xffffffc3][0xffffff94]Z[0xfffffff1][0xffffffdc]a[0xffffffd9][0x1b][0xffffffa6][0xffffffc4][0xffffff8b][0xffffffe6][0xe][0xffffffa3][0xffffffde][0xffffffb0][0xffffffa8][0xffffffe5][0xfffffff3][0xffffffb9]#[0xffffffa9][0xfffffff7]h[0xffffff8f]1[0xffffffc0][0xffffffdc][0xffffff91][0x1c][0xffffffde][0xffffffa3]M[0x1e][0xffffffef][0xffffffd1]&[0xfffffff1],[0xffffffe2]V[0xffffffde][0x13][0xfffffff9][0x1e]m[\n]"
+19:19:35.578 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0xf][0x1f][0xffffffb2][0xffffffb9]C[0xffffff90]I[0xffffffe5][0xe][0xffffffc9]'[0xffffff95];[0x4][0xffffffa5]D[0xffffffee][0x8][0xffffffac][0xffffffee][0xffffffcf][0x1d][0xffffff81]X[0xffffffaf][0xffffffdc][0xffffffa1][0xffffffd4]J[0xffffffe7][0xe]mZ:w([0xfffffff1][0xffffff92][0xffffffb9]#z[0xffffff98][0xffffffcb][0x1d]Q[0xffffffcb][0x17]r[0xffffff87][0xffffffda]g[0xffffffb9][0xffffffff][0xffffff93][0xffffffc1]{[0xffffffa5][0xffffffc9]a[0xffffff9f]%y[0xffffffec][0xffffffb3]$q[0xffffffad]z/[0xffffffef][0xffffffe4]>K[\n]"
+19:19:35.578 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0x17][0xffffffa7][0xffffffe1][0xffffffdc][0xffffffe1][0xffffffb3][0xffffffcf]"[0xfffffff9][0xffffffc4]r[0xffffff87][0xffffffc7]>K`[0x15][0xffffffc8][0x1d][0xffffffde][0xfffffffb],J[0xffffffad]x[0xffffffee][0xffffffb0][0xffffffdc]gQ[0xffffffe2]Es[0xffffff87][0xffffffd1]>K[0xffffffd4][0xfffffff2][0xffffff85][0xffffffdc][0xffffffa1][0xfffffff6]Y^[0xffffffbe][0xffffffb4][0xffffff80][0xffffffb9][0xffffffc3]a[0xffffff9f]%y[0xffffffec][0xffffffb3]$q[0xffffffad]z/[0xffffffef][0xffffffe4]>K[\n]"
+19:19:35.579 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0x17][0xffffffa7][0xffffffe1][0xffffffdc][0xffffffe1][0xffffffb3][0xffffffcf]"[0xfffffff9][0xffffffc4]r[0xffffff87][0xffffffc7]>K`[0x15][0xffffffc8][0x1d][0xffffffde][0xfffffffb],J[0xffffffad]x[0xffffffee][0xffffffb0][0xffffffdc]gQ[0xffffffe2]Es[0xffffff87][0xffffffd1]>K[0xffffffd4][0xfffffff2][0xffffff85][0xffffffdc][0xffffffa1][0xfffffff6]YRo[0x7][0xffffff98];[0x1c][0xfffffff6]Y[0xffffff92][0xffffffc7]>K[0x12][0xffffffd7][0xffffffaa][0xfffffff7][0xfffffff2]N[0xffffffee][0xffffffb3][0xffffffa4]pq[0x1a][0xffffffce][0x1d]>[0xfffffffb],[0xffffff92]O,wx[0xffffffec][0xffffffb3][0x4]V[0xffffff81][0xffffffdc][0xffffffe1][0xffffffbd][0xffffffcf][0xffffffa2][0xffffffd4][0xffffff8a][0xffffffe7][0xe][0xffffffcb]}[0x16]%^4w[0x18][0xffffffed][0xffffffb3]D-_[0xffffffca][0x1d][0xffffffc9]/w$[0xffffff87][0xffffffdc][0xffffff91]<rG[0xffffffa2]sG"sG2[0xffffffcb][0x1d]+[0xffffff99]`[0xffffffee][0xffffff88]|[0xffffff82][0xffffffb9]c[0xffffffa5][0x14][0xffffffca][0x1d][0xffffff89][0xffffffcf][0x1d][0xffffffc9];w[0x4][0xffffffb5][0x1a][0xffffffe4][0xe]aZ[0xffffff83][0xffffffdc][0x11][0xffffffc4][0xb][0xffffffe7][0xffffff8e]d[0xffffff94];[0xffffffd2]O[0xffffffe7][0xffffff8e][0xfffffffe]%[0xffffffc7][0xffffffdc]1[0xffffffc8][0xffffff9e][0xfffffff4][0xffffff97][0xffffff91][0xfffffff8][0xffffffdc][0xfffffff1]2[0xffffff84]A[0xffffffee]x[0x1f][0x3][0xffffffcb][0x1d]/[0x3]`[0xffffffb9][0xffffffe3][0xffffffed][0xffffffc7]mrG$[0x13][0xffffffcb][0x1d][0xffffff8a]O,wDJ[0xffffff91][0xffffffdc][0xffffffb1][0xffffffb2][\n]"
+19:19:35.579 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0xffffffe4][0xffffff8e][0xffffff95]X[0xffffffb3][0xffffffdc]![0xffffffd4][0xffffff8a][0xffffffe7][0xe]iZ<w[0x8][0xfffffff1][0xffffffa2][0xffffffb9]#x[0x18][0xffffffcc][0x1d]A[0xffffffcb][0x17]r[0xffffff87][0xffffffda][0xffffffa3][0xffffffcd][0xffffffa9][0xffffff92][0xffffffb9][0xffffffc3]a[0xffffff8f]6y[0xffffffec][0xffffffd1]&[0xffffffb1][0xffffffce][0xffffffb5][0xffffff97]wr[0xffffff8f]6[0xffffff85][0xffffff85]-8w[0xfffffff8][0xffffffec][0xffffffd1]J>[0xffffffb1][0xffffffdc][0xffffffe1][0xffffffb1]G[0x1b]X[0x5]r[0xffffff87][0xfffffff7][0x1e][0xffffffad]R+[0xffffff9e];,[0xfffffff7]h[0xffffff95]x[0xffffffd1][0xffffffdc]a[0xffffffb4]G[0x1b][0xffffffb5]|!wL[0xffffff95];J[0x2]{[0xffffffc3]^F[0xffffffe2]s[0xffffffc7][0xfffffff4][0xffffffc8][0x1d]3[0xffffffe2][0xffffffbf][0xffffff97][0xfffffff7]I[0xffffffe6][0xffffff8e]i[0xffffff96];"[0xffffff99]X[0xffffffee]P|b[0xffffffb9]#R[0xffffff8a][0xffffffe4][0xffffff8e][0xffffff95]U w[0xffffffac][0xffffffc4][0xffffff9a][0xffffffe5][0xe][0xffffffa1]V<wH[0xffffffd3][0xffffffe2][0xffffffb9]C[0xffffff88][0x17][0xffffffcd][0x1d][0xffffffc1][0xffffffc3]`[0xffffffee][0x8]Z>[0xffffff9f];[0xfffffff2][0xffffffa1]rG[0xffffffaf]`[0xffffffee][0xffffffc8][0xffffffe2][0xffffffb1][0xffffffe6][0xffffffed][0xffffffff][0xffffffd7][0xffffff90][0xffffffe5][0xffffffeb][0xffffffcc][0xffffffdb][0xfffffff1][0xffffffcf][0xffffffe2]9[0xffffffe6][0xffffffad][0xffffffbc][0xffffffe7][0xfffffff0][0xfffffffe][0xfffffff2]F[0xffffffc0]sxp[0xffffff99][0xffffffcd][0x1d][0xffffff82]L*wH>[0xffffffa9][0xffffffdc]!(%rG`u[0x7f][0xffffffee][0x8][0xffffffc4]z[0xffffffe5][0xe][0xffffffa5]V:wh[0xffffffd3][0xffffffd2][0xffffffb9]C[0xffffff89][0xffffff97][0xffffffcc][0x1d][0xffffffd1][0xffffffc3]\[0xffffffee][0xffffff88]Z[0xffffffbe][0xffffff90];ToX[0x1e]9[0xffffff83][0xffffffb9][0xffffffc3][0xffffffa1]7,{[0xfffffff4][0xffffff86]eQ_[0xffffffb3][0xffffff97]w[0xffffffb2]7,[0xffffff87][0xffffff82][0x1a]8w[0xfffffff8][0xfffffff4][0xffffff86]I>[0xffffffb1][0xffffffdc][0xffffffe1][0xffffffd1][0x1b][0x16]X[0x5]r[0xffffff87]wo[0xffffff98]R+[0xffffff9e];,{[0xffffffc3][0xffffff94]x[0xffffffd1][0xffffffdc]a[0xffffffd4][0x1b][0x16][0xffffffb5]|!w[0xffffffa8][0xffffffde][0xffffffb0]<:[0xffffff99];[0x1c]z[0xffffffc3][0xffffffb2]GoX[0x16][0xfffffff5]5{y'{[0xffffffc3]r([0xffffffa8][0xffffff81]s[0xffffff87]Oo[0xffffff98][0xffffffe4][0x13][0xffffffcb][0x1d][0x1e][0xffffffbd]a[0xffffff81]U wx[0xfffffff7][0xffffff86])[0xffffffb5][0xffffffe2][0xffffffb9][0xffffffc3][0xffffffb2]7L[0xffffff89][0x17][0xffffffcd][0x1d]F[0xffffffbd]aQ[0xffffffcb][0x17]r[0xffffff87][0xffffffea][\r]+[0xffffffb7]T[0xffffffc0][0xffffffdc][0xffffffe1][0xffffffd0][0x1b][0xffffff96]=z[0xffffffc3][0xffffffb2][0xffffffa8][0xffffffaf][0xffffffd9][0xffffffcb];[0xffffffd9][0x1b][0xffffff96]CA[\r][0xffffff9c];|z[0xffffffc3]$[0xffffff9f]X[0xffffffee][0xfffffff0][0xffffffe8][\r][0xb][0xffffffac][0x2][0xffffffb9][0xffffffc3][0xffffffbb]7L[0xffffffa9][0x15][0xffffffcf][0x1d][0xffffff96][0xffffffbd]aJ[0xffffffbc]h[0xffffffee]0[0xffffffea][\r][0xffffff8b]Z[0xffffffbe][0xffffff94];[0xffffffe2][0x1e]-[0xffffff9e];[0xfffffff8]=[0xffffffda][0xffffffc7][0x10][0x16][0xffffffb9][0xffffff83][0xffffffdd][0xffffffa3]}[0xc][0x0][0xffffffe6][0xe][0xffffffab]=ZA&[0xffffff98];|[0xfffffff6]h[0x5][0xffffffa5]P[0xffffffee][0xffffffa0][0xfffffff7]h[0x3][0xffffffb1]v[0xffffffb9][0xffffffc3]n[0xffffff8f]V[0xffffff9b][0xffffffd6] wX[0xffffffed][0xffffffd1]F[0xf][0xffffffa3][0xffffffb9][0xffffffe3][0xffffffa7][0xfffffff7]h[0xffffffb3][0xffffffea][\r]+[0x9][0xfffffffd][0xffffffce]"
+19:19:35.582 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0xffffffe2][0xffffffd0][0x1b][0xffffff96]=z[0xffffffc3][0xffffffb2][0xffffffa8][0xffffffaf][0xffffffd9][0xffffffcb];[0xffffffd9][0x1b][0xffffff96]CA[\r][0xffffff9c];|z[0xffffffc3]$[0xffffff9f]X[0xffffffee][0xfffffff0][0xffffffe8][\r][0xb][0xffffffac][0x2][0xffffffb9][0xffffffc3][0xffffffbb]7L[0xffffffa9][0x15][0xffffffcf][0x1d][0xffffff96][0xffffffbd]aJ[0xffffffbc]h[0xffffffee]0[0xffffffea][\r][0xffffff8b]Z[0xffffffbe][0xffffff90];[0xffffffba][0xfffffffa][0xffffffce]R3[0xfffffff8][0x1e][0xffffffed][0xffffffcb]H|[0xffffffee][0xffffffe8][0x1e][0xffffffdf]Yz<[0xffffffee][0xffffffdb][0xffffffcb]{'[0xffffffbf][0xffffffb3]t[0xffffffb3][0xffffffef],[0xffffff91]L,w(>[0xffffffb1][0xffffffdc][0x11])Er[0xffffffc7][0xffffffca]*[0xffffff90];Vb[0xffffffcd]r[0xffffff87]P+[0xffffff9e];[0xffffffa4]i[0xfffffff1][0xffffffdc]![0xffffffc4][0xffffff8b][0xffffffe6][0xffffff8e][0xffffffe0]a0w[0x4]-_[0xffffffc8][0x1d][0xffffffaa][0xffffffbf][0xffffffa3][0xffffffa6][0x1b][0xfffffff8].\v[0xffffffe8][0xffffffef][0xffffffc8][0x1e][0xfffffffd][0x1d]Y[0xffffffac][0xffffff91][0xffffffef][0xffffffe5][0xffffff9d][0xffffffec][0xffffffef][0xffffffc8]aQ[0x1c][0xffffffce][0x1d]>[0xfffffffd][0x1d][0xffffff92]O,wx[0xfffffff4]w[0x4]V[0xffffff81][0xffffffdc][0xffffffe1][0xffffffdd][0xffffffdf][0xffffffa1][0xffffffd4][0xffffff8a][0xffffffe7][0xe][0xffffffcb][0xfffffffe][0xe]%^4w[0x18][0xfffffff5]wD-_[0xffffffca][0x1d][0xfffffff1];[0xb][0xffffff9e];[0xc][0xffffffbe][0xffffffb3]L[0xffffff8f][0xffffffef],3[0x1e][0xfffffff7][0xffffffed][0xffffffe6][0x1d][0xfffffffc][0xffffffce]2[0xffffffcd][0xffffffbe][0xffffffb3]D2[0xffffffc1][0xffffffdc]a[0xfffffff4][0xffffff9d]%R[\n]"
+19:19:35.582 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-1 << "[0xffffffe5][0xe][0xfffffffc];[0xffffffcb]J[0xffffffac]][0xffffffee][0xfffffff0][0xfffffffb][0xffffffce]"Mk[0xffffff90];[0xffffffbc][0xffffffbe][0xffffffb3][0x4][0xf][0xffffffa3][0xffffffb9][0xffffffe3][0xffffffa7][0xffffffbf][0xffffffb3][0xffffff94][0xffffff9b]:[0xffffffef][0xffffffa8][0xffffffb3]p[0xffffffb9][0xffffffe3]e$<w<[0xffffff86][0xffffffe0]s[0xffffffc7][0xffffffd7]1[0xffffffa8][0xffffffdc][0xfffffff1][0x18][0xffffff80][0xffffffca][0x1d][0xffffffef]?[0xffffffee][0xffffff92];[0x4][0xffffff99]T[0xffffffee][0xffffff90]|R[0xffffffb9]CPJ[0xffffffe4][0xffffff8e][0xffffffc0][0xffffffea][0xfffffffe][0xffffffdc][0x11][0xffffff88][0xfffffff5][0xffffffca][0x1d]J[0xffffffad]t[0xffffffee][0xffffffd0][0xffffffa6][0xffffffa5]s[0xffffff87][0x12]/[0xffffff99];[0xffffffa2][0xffffff87][0xffffffb9][0xffffffdc][0x11][0xffffffb5][0xfffffffc][0xffffffdd][0xffffffdc][0xfffffff1]?[0xfffffffe][0xfffffff3][0xffffffff][0xfffffff9]?(M[0xffffffc9]m4[0x18][0xb][0x0]"
+19:19:35.584 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000002 releasing valid endpoint
+19:19:35.584 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000002 releasing endpoint
+19:19:35.584 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000002 connection http-outgoing-1 can be kept alive for 3 MINUTES
+19:19:35.584 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000002 connection released [route: {s}->https://googlechromelabs.github.io:443][total available: 2; route allocated: 1 of 5; total allocated: 2 of 25]
+19:19:35.585 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+19:19:35.590 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Storing resolution chrome=120 in cache (valid until 20:19:35 11/01/2024 IST)
+19:19:35.592 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Storing resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+19:19:35.636 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+19:19:35.638 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+19:25:56.728 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\eclipse-workspace\Brokerage\master.xml"
+19:25:57.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\eclipse-workspace\Brokerage\master.xml
+
+19:26:00.439 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+19:26:00.967 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 20:19:35 11/01/2024 IST)
+19:26:00.969 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+19:26:00.970 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+19:26:01.029 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+19:26:01.032 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+19:32:53.680 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\eclipse-workspace\Brokerage\master.xml"
+19:32:54.230 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\eclipse-workspace\Brokerage\master.xml
+
+19:32:57.625 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+19:32:58.231 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 20:19:35 11/01/2024 IST)
+19:32:58.232 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+19:32:58.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+19:32:58.278 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+19:32:58.279 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+19:39:30.345 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\eclipse-workspace\Brokerage\master.xml"
+19:39:30.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\eclipse-workspace\Brokerage\master.xml
+
+19:39:33.979 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+19:39:34.443 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 20:19:35 11/01/2024 IST)
+19:39:34.445 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+19:39:34.446 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+19:39:34.489 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+19:39:34.490 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+19:39:46.034 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:46.040 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.126 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.128 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.164 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.165 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.214 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.215 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.244 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.246 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.277 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.279 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.310 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.343 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.344 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.367 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.390 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.391 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.423 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.498 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.499 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.524 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.525 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.547 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.572 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.573 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.593 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.594 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.614 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.636 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.656 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.657 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.686 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.688 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.710 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.732 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.733 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.754 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.779 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.780 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.803 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.822 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.842 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+19:39:47.843 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+19:39:47.901 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:39:47.940 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:39:48.785 [main] INFO  testCases.TC_002_LoginDDT - *  Clicked on Login button  *
+19:40:03.827 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:03.827 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:40:13.919 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:13.919 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:40:23.951 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:23.951 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:40:33.991 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:33.992 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:40:43.225 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:43.227 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:40:43.244 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:43.246 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:40:43.270 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:43.273 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+19:40:43.314 [main] INFO  testCases.TC_002_LoginDDT - ****  Starting TC_002_LoginDDT   ****
+19:40:43.316 [main] INFO  testCases.TC_002_LoginDDT - *  Providing Username & Pswd  *
+20:16:10.402 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\eclipse-workspace\Brokerage\master.xml"
+20:16:11.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\eclipse-workspace\Brokerage\master.xml
+
+20:16:15.816 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+20:16:16.512 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 20:19:35 11/01/2024 IST)
+20:16:16.514 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+20:16:16.515 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:16:16.578 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+20:16:16.582 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:16:23.829 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest  ***
+20:16:23.829 [main] DEBUG testCases.TC_001_LoginTest - caputuring application debug logs.......
+20:16:23.864 [main] INFO  testCases.TC_001_LoginTest - *  Providing Username & Pswd  *
+20:16:25.282 [main] INFO  testCases.TC_001_LoginTest - *  Clicked on Login button  *
+20:16:30.383 [main] ERROR testCases.TC_001_LoginTest - *  Test Failed catch block *
+20:17:22.683 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\prade\eclipse-workspace\Brokerage\master.xml"
+20:17:23.186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\prade\eclipse-workspace\Brokerage\master.xml
+
+20:17:25.730 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+20:17:26.184 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 20:19:35 11/01/2024 IST)
+20:17:26.185 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+20:17:26.186 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:17:26.231 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+20:17:26.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:17:41.512 [main] INFO  testCases.TC_001_LoginTest - ***  Starting TC_001_LoginTest  ***
+20:17:41.512 [main] DEBUG testCases.TC_001_LoginTest - caputuring application debug logs.......
+20:17:41.558 [main] INFO  testCases.TC_001_LoginTest - *  Providing Username & Pswd  *
+20:17:42.486 [main] INFO  testCases.TC_001_LoginTest - *  Clicked on Login button  *
+20:17:47.165 [main] INFO  testCases.TC_001_LoginTest - Login Test Passed .... 
+20:17:47.174 [main] INFO  testCases.TC_001_LoginTest - ***  Finished TC_001_Login  ***
+20:18:37.273 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+20:18:38.108 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=120 in cache (valid until 20:19:35 11/01/2024 IST)
+20:18:38.110 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome120=120.0.6099.109 in cache (valid until 19:19:35 12/01/2024 IST)
+20:18:38.111 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 120.0.6099.109 (resolved driver for Chrome 120)
+20:18:38.169 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 120.0.6099.109 found in cache
+20:18:38.171 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\prade\.cache\selenium\chromedriver\win64\120.0.6099.109\chromedriver.exe
+20:40:40.904 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.6.2
+20:40:41.791 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Removing resolution chrome=120 from cache (expired on 2024-01-11T20:19:35.000+0530)
+20:40:41.832 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 preparing request execution
+20:40:41.851 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 target auth state: UNCHALLENGED
+20:40:41.852 [main] DEBUG org.apache.hc.client5.http.impl.classic.ProtocolExec - ex-0000000001 proxy auth state: UNCHALLENGED
+20:40:41.852 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 acquiring connection with route {s}->https://raw.githubusercontent.com:443
+20:40:41.852 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquiring endpoint (3 MINUTES)
+20:40:41.855 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint lease request (3 MINUTES) [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 0 of 5; total allocated: 0 of 25]
+20:40:41.862 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 endpoint leased [route: {s}->https://raw.githubusercontent.com:443][total available: 0; route allocated: 1 of 5; total allocated: 1 of 25]
+20:40:41.882 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ex-0000000001 acquired ep-0000000001
+20:40:41.883 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ex-0000000001 acquired endpoint ep-0000000001
+20:40:41.883 [main] DEBUG org.apache.hc.client5.http.impl.classic.ConnectExec - ex-0000000001 opening connection {s}->https://raw.githubusercontent.com:443
+20:40:41.884 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 connecting endpoint (null)
+20:40:41.888 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connecting endpoint to https://raw.githubusercontent.com:443 (30 SECONDS)
+20:40:41.888 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolving remote address
+20:40:41.948 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com resolved to [raw.githubusercontent.com/185.199.111.133, raw.githubusercontent.com/185.199.109.133, raw.githubusercontent.com/185.199.108.133, raw.githubusercontent.com/185.199.110.133, raw.githubusercontent.com/2606:50c0:8003:0:0:0:0:154, raw.githubusercontent.com/2606:50c0:8002:0:0:0:0:154, raw.githubusercontent.com/2606:50c0:8001:0:0:0:0:154, raw.githubusercontent.com/2606:50c0:8000:0:0:0:0:154]
+20:40:41.964 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connecting null->raw.githubusercontent.com/185.199.111.133:443 (30 SECONDS)
+20:40:41.964 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Connecting socket to raw.githubusercontent.com/185.199.111.133:443 with timeout 30 SECONDS
+20:40:42.131 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled protocols: [TLSv1.3, TLSv1.2]
+20:40:42.131 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Enabled cipher suites: [TLS_AES_256_GCM_SHA384, TLS_AES_128_GCM_SHA256, TLS_CHACHA20_POLY1305_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+20:40:42.131 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Starting handshake (null)
+20:40:42.450 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory - Secure session established
+20:40:42.450 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated protocol: TLSv1.3
+20:40:42.450 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  negotiated cipher suite: TLS_AES_128_GCM_SHA256
+20:40:42.453 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer principal: CN=*.github.io, O="GitHub, Inc.", L=San Francisco, ST=California, C=US
+20:40:42.453 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  peer alternative names: [*.github.io, github.io, *.github.com, github.com, www.github.com, *.githubusercontent.com, githubusercontent.com]
+20:40:42.453 [main] DEBUG org.apache.hc.client5.http.ssl.SSLConnectionSocketFactory -  issuer principal: CN=DigiCert TLS RSA SHA256 2020 CA1, O=DigiCert Inc, C=US
+20:40:42.454 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultManagedHttpClientConnection - http-outgoing-0 set socket timeout to 3 MINUTES
+20:40:42.454 [main] DEBUG org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator - raw.githubusercontent.com:443 connected null->raw.githubusercontent.com/185.199.111.133:443 as http-outgoing-0
+20:40:42.454 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 connected http-outgoing-0
+20:40:42.455 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 endpoint connected
+20:40:42.456 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 executing GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+20:40:42.457 [main] DEBUG org.apache.hc.client5.http.protocol.RequestAddCookies - ex-0000000001 Cookie spec selected: strict
+20:40:42.475 [main] DEBUG org.apache.hc.client5.http.impl.classic.InternalHttpClient - ep-0000000001 start execution ex-0000000001
+20:40:42.475 [main] DEBUG org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager - ep-0000000001 executing exchange ex-0000000001 over http-outgoing-0
+20:40:42.476 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> user-agent: Apache-HttpClient/5.0
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> accept-encoding: gzip, deflate, br
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> cache-control: max-age=0
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> connection: keep-alive
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 >> Host: raw.githubusercontent.com
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "GET /bonigarcia/webdrivermanager/master/src/main/resources/commands.properties HTTP/1.1[\r][\n]"
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "user-agent: Apache-HttpClient/5.0[\r][\n]"
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "accept-encoding: gzip, deflate, br[\r][\n]"
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "cache-control: max-age=0[\r][\n]"
+20:40:42.477 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "connection: keep-alive[\r][\n]"
+20:40:42.478 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "Host: raw.githubusercontent.com[\r][\n]"
+20:40:42.478 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 >> "[\r][\n]"
+20:40:42.555 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+20:40:42.555 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Connection: keep-alive[\r][\n]"
+20:40:42.555 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Length: 723[\r][\n]"
+20:40:42.556 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cache-Control: max-age=300[\r][\n]"
+20:40:42.556 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox[\r][\n]"
+20:40:42.556 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Type: text/plain; charset=utf-8[\r][\n]"
+20:40:42.556 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "ETag: W/"e82b438271e9e8680c688b0b680efd0bdd22faa6d6f0a32fc1fd8accc486b67e"[\r][\n]"
+20:40:42.557 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Strict-Transport-Security: max-age=31536000[\r][\n]"
+20:40:42.557 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Content-Type-Options: nosniff[\r][\n]"
+20:40:42.557 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Frame-Options: deny[\r][\n]"
+20:40:42.557 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-XSS-Protection: 1; mode=block[\r][\n]"
+20:40:42.557 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-GitHub-Request-Id: 7C74:109AA5:10EADD:1EC513:6594627C[\r][\n]"
+20:40:42.558 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Content-Encoding: gzip[\r][\n]"
+20:40:42.558 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Accept-Ranges: bytes[\r][\n]"
+20:40:42.558 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Date: Thu, 11 Jan 2024 15:10:43 GMT[\r][\n]"
+20:40:42.558 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Via: 1.1 varnish[\r][\n]"
+20:40:42.559 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Served-By: cache-bom4727-BOM[\r][\n]"
+20:40:42.559 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache: HIT[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Cache-Hits: 1[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Timer: S1704985843.032990,VS0,VE1[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Vary: Authorization,Accept-Encoding,Origin[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Cross-Origin-Resource-Policy: cross-origin[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "X-Fastly-Request-ID: 55bcfe3c22d7be534a8a041ea86eb8e103c03ad6[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Expires: Thu, 11 Jan 2024 15:15:43 GMT[\r][\n]"
+20:40:42.560 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "Source-Age: 28[\r][\n]"
+20:40:42.561 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[\r][\n]"
+20:40:42.567 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << HTTP/1.1 200 OK
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Connection: keep-alive
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Length: 723
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cache-Control: max-age=300
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Type: text/plain; charset=utf-8
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << ETag: W/"e82b438271e9e8680c688b0b680efd0bdd22faa6d6f0a32fc1fd8accc486b67e"
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Strict-Transport-Security: max-age=31536000
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Content-Type-Options: nosniff
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Frame-Options: deny
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-XSS-Protection: 1; mode=block
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-GitHub-Request-Id: 7C74:109AA5:10EADD:1EC513:6594627C
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Content-Encoding: gzip
+20:40:42.568 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Accept-Ranges: bytes
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Date: Thu, 11 Jan 2024 15:10:43 GMT
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Via: 1.1 varnish
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Served-By: cache-bom4727-BOM
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache: HIT
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Cache-Hits: 1
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Timer: S1704985843.032990,VS0,VE1
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Vary: Authorization,Accept-Encoding,Origin
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Access-Control-Allow-Origin: *
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Cross-Origin-Resource-Policy: cross-origin
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << X-Fastly-Request-ID: 55bcfe3c22d7be534a8a041ea86eb8e103c03ad6
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Expires: Thu, 11 Jan 2024 15:15:43 GMT
+20:40:42.569 [main] DEBUG org.apache.hc.client5.http.headers - http-outgoing-0 << Source-Age: 28
+20:40:42.578 [main] DEBUG org.apache.hc.client5.http.impl.classic.MainClientExec - ex-0000000001 connection can be kept alive for 3 MINUTES
+20:40:42.604 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0x1f][0xffffff8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xffffffb5]V]o[0xffffffda]0[0x14]}[0xffffffe7]W\[0xffffff81]*[0xffffffb5][0x12][0x1f][[M[0xffffffd3]$[0x1e]hF[0xffffffbb]i [0x18][0xffffffb4][0xffffffdd]&[0xfffffff9][0xffffffc5]$7[0xffffffc1]R[0x12]#;[0xffffff94]v[0xffffffbf]~[0xffffffb6][0xfffffff3]1[0xffffff92][0xffffff9a][0xffffffc1][0x1a]x[0xffffffcb][0xffffffb5][0xffffffaf][0xffffffcf]9[0xffffffbe][0xfffffff7]8v[0xb][0x1c][0x1e]E4[0xfffffff6]$x4[0xffffffa1][0xb]*[0xffffffb1][0xffffffd1][0xffffff82][0xfffffffb]%[0xffffff93][0xffffffe0][0xffffffb3][0x10][0xffffffc1][0xffffffe5]qBY,!Y[0xffffffea] KM8,[0x10][0xfffffff0][0x19][0xffffffdd]u[0xffffff82][0x1e][0xffffffb0][0xffffffd8]L[0xffffffcb]%[0xffffff86][0xffffffa1][0xe][0xffffffb8][0xfffffff0]P[0xffffffe8]$[0xf][0x13]t[0x13]3[0xfffffff9][0xffffff84]B2[0xffffffae][0xffffffe6]|@[0xfffffff5][0x1d][0x8][0xffffffc4][0x18][0x16][0xffffff82]o[0xffffffa4][0xffffff9a]P[0xffffff94][0xffffffe7][0xffffffce]R[0xfffffff0][0x8][0xffffffdb]p[0xffffffcb][0x4][0xfffffffa][0xfffffffc][0xffffffb9][\r][0xffffff93][0x15][\n]"
+20:40:42.604 [main] DEBUG org.apache.hc.client5.http.wire - http-outgoing-0 << "[0xffffffda][0xffffff86][0xffffffa1][0x17][0xffffffa8]Q3[0xffffffcb][0xffffffd6][0xffffffd1][0xffffff85][0xffffffc6][0xfffffff7][0xffffff98][0xffffffef][0xffffffa3][0xffffffc0]8[0x1][0xffffffae]s[0x12][0x16][0x7] _d[0xffffff82][0xffffff91][0xffffff84][0xfffffff3][0x1f],[0xfffffff6][0x14]j[0x1b]F,^+[0xffffff98]1ua2[0xffffffbf]h([0xffffff8e][0xffffff94][0xffffffa2][0xffffff91]m[0xffffffa3][0xffffffeb][0xffffff9a][0xffffffb0][0xffffffbb]I[0x17]t[0xffffffdf][0xffffffbd][0xffffffef][0xffffffbb][0xffffff91][0xffffffd7]U[0xffffffbb][0xffffff82][0xffffff9e][0x3][0xffffff9b][0xffffff88][0xffffffb9][0xffffffa6]$[0xffffffa6][0xc][0xffffff9b][0xffffffa5][0xffffffe2][0xffffff83][0xffffff98]F[0xffffffd8]o[0xffffff9e]Mg[0xffffff93][0xffffffbb][0xffffffd9]`|[0xfffffffb]u4[0xffffff9c][0x7f]"}B[0xffffffce][0x8][0xffffffb9][0xffffffe3]<[0x8][0xffffff91][0xffffff90][0xffffff94][0xffffff82][0xffffff90][0xffffffc1]j[0x15]2WI[0xffffffe3]1![0x19][0xffffff91]BnB[0xffffff80][0x9]<f[0xffffffb5][0xffffffe8]=[0xffffffd1]p[0xffffffbd][[0xffffffcf][0xffffffe5][0x1b][0xfffffff4][0xffffff9c][0xffffffff][0xfffffffc][0xfffffff8][0xffffffe1][0xffffffe2][0xffffff94][0xffffffa2][0xffffffae][0xe][0x14]5[0xffffff9a]8[0xffffff83][0xffffffd1]`:[0xfffffffd]<[0xffffffb8][0x1f][0xffffff9c]R[0xffffffcf]u[0x7f]6[0xffffffbc][0xffffff83][0xffffffef][0xf][0xffffffc3][0xffffffd9]/[0xfffffff8][0xfffffff2][0xffffffcd]y s[0xffffffee]'[0x1b]*0g[0xffffffcb][0xffffffc8]nF7H][0xffffff83][0xffffff97]{[0xffffffb1]Q[0x5][\r][0xffffffb5]c[0xffffffb4][0xf][0x2][0xffffffb3][0xffffffb4][0xffffff93][0xe]C[0xffffffa7][0xffffffb3]kAD][0xffffff9d][0xffffffde][0xffffffdb][0xffffffda][0xffffff88][0xffffffec][0xffffffa5][0xffffffbc][0xffffff99][0xffffffd9][0xffffffba]t[0xffffffb5][0xffffffea]9[0xffffffea][0x10])[0xffffffb7][0xffffffca][0xffffff9e][0xfffffff2][0xffffffe2]d^N[0xffffffd8]FW[0x16][0xffffffcd][0xffffffdc]_[0x10][0xfffffff9]i|[0x1c][0xffffff93][0xffffff8e][0xfffffff9]o[0x16][0xffffff86]4'!$G[0xffffffdf]W[0xfffffff4]W*j[[0xfffffff3]xR[0xffffffae][0xffffffb6][0xc][0xffffffd0],; #[0xffffffa9][0xffffff92]5[0xffffffb5][0x7][0xffffff9c][0xffffffb5][0xffffffd0][0x7f][0xffffff90][0xffffffc7]jgs[0xfffffffc][0xffffffc2][0xb][0xffffffd9][0x0]t[0xffffff9e]^'Y[0xfffffffb][0xffffff9f][0xffffffb1][0xffffffd8]:[0xffffffbf][0xffffff8d][0xffffffa5][0xffffff9a][0xffffffad][0x7f]m[0x5]&[0xffffffaa][0xffffffa0]^[0xffffff9b][0xffffffcb][0x5]f[0xffffffae][0xffffffe0]RU[0xffffff82][0x10]MS9l[0xffffff91]4t[0xfffffffb][0xffffff8a]][0xffffffd6][0xfffffff4][0xffffff96][0xffffffa6][0xffffff9f]P[0xffffffce][0xffffffd5][0xffffffce][0xffffff93][0xffffffff][0xffffff97][0xffffffcc]p[0xfffffffd][0xfffffff3][0xffffffe8][0x1b][0xffffffcc][0xffffffa2][0xffffffd9]Q[0xffffffbe][0xffffffb2][0xffffffa3][0xffffffc7]m'[0xffffffdf][0xffffffe4][[0xfffffffb]^[0xffffffb0][0xffffff9a][0xffffffbe][0xffffffda][0xffffffda]_[0xffffffce][0xffffff80][0xffffffd2][0xffffffc1]7[0xffffffb7]][0xffffffc1]b[0xffffffee][0xffffffb5][0xffffffff]w[0xffffff83][0xffffffed][0xffffffa7];[0x15]<[0x10]4[0xffffff92][0xffffff84][0x18][\n]"
