@@ -18,21 +18,15 @@ public class LoginPage extends BasePage {
 	
 	//Locators
 	
-	//Approach 1
-	//By img_logo_loc=By.xpath("//h2[normalize-space()='Log in to your account'])");
-	//By txt_username_loc=By.xpath("//input[@placeholder='Enter your brokerage email']");
-	//By txt_pswd_loc=By.xpath("(//input[@id='passInput'])[1]");
-	
-	//Approach 2
 	
 	@FindBy(xpath="//h2[normalize-space()='Log in to your account'])") WebElement img_Logo;
 	@FindBy(xpath="//input[@name='email']") WebElement txt_username ;
 	@FindBy(xpath="//input[@name='password']") WebElement txt_password ;
-	@FindBy(xpath="//button[normalize-space()='Sign In']") WebElement btn_signin ;
+	@FindBy(xpath="//button[normalize-space()='Sign In']") WebElement btn_SignIn ;
     @FindBy(css="div[class='mb-2 login-msg'] div")WebElement msgConfirmation;
     @FindBy(xpath="//a[normalize-space()='Forgot Password?']")WebElement btn_ForgotPassword;
     @FindBy(xpath="//strong[normalize-space()='Sign up']")WebElement btn_Signup;
-    
+    @FindBy(xpath="//button[normalize-space()='Login']") WebElement btn_LogIn ;
     
     
     //Actions
@@ -49,7 +43,11 @@ public class LoginPage extends BasePage {
 	{txt_password.clear();}
 	 
 	public void clickSignIn()
-	{btn_signin.click();}
+	{btn_SignIn.click();}
+	
+	public void clickLogIn()
+	{btn_LogIn.click();}
+	
 	
 	public void clickForgotPassword()
 	{btn_ForgotPassword.click();}

@@ -8,9 +8,13 @@
  <parameter name="os" value="window"/>
  <parameter name="browser" value="Chrome">
     <classes>
-      <class name="testCases.TC_001_SignupTest"/>   
-     <class name="testCases.TC_002_LoginTest"/>
-     <class name="testCases.TC_003_LoginDDT"/>
+      
+       <!--<class name="testCases.TC_002_SignupTestbyOTP"/>
+     <class name="testCases.TC_001_SignupTestbyVerifyEmail"/>   
+     <class name="testCases.TC_003_LoginTest"/>
+     <class name="testCases.TC_004_LoginDDT"/> -->
+     <class name="testCases.TC_005_ForgotPassword"/>
+     
     </classes>
     </parameter>
   </test> <!-- Test -->

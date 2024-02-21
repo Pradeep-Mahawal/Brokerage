@@ -5,21 +5,16 @@
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="os" value="Windows"/>
+    <parameter name="os" value="window"/>
     <parameter name="browser" value="Chrome"/>
-    <groups>
-      <run>
-        <include name="sanity"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.TC_001_LoginTest">
+      <class name="testCases.TC_005_ForgotPassword">
         <methods>
-          <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verify_login"/>
+          <include name="tearDown"/>
+          <include name="verify_signup"/>
         </methods>
-      </class> <!-- testCases.TC_001_LoginTest -->
+      </class> <!-- testCases.TC_005_ForgotPassword -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

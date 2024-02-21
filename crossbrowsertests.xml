@@ -5,7 +5,7 @@
   <test thread-count="5" name="Chrometest">
    <parameter name="browser" value="Chrome">
     <classes>
-     <class name="testCases.TC_002_LoginTest"/>
+     <class name="testCases.TC_001_SignupTest"/>
       </classes>
     </parameter>
   </test> <!-- Test -->
@@ -13,7 +13,7 @@
    <test thread-count="5" name="Edgetest">
    <parameter name="browser" value="Edge">
     <classes>
-     <class name="testCases.TC_002_LoginTest"/>
+     <class name="testCases.TC_001_SignupTest"/>
     </classes>
     </parameter>
   </test> <!-- Test -->
