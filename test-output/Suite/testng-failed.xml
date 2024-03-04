@@ -8,13 +8,13 @@
     <parameter name="os" value="window"/>
     <parameter name="browser" value="Chrome"/>
     <classes>
-      <class name="testCases.TC_005_ForgotPassword">
+      <class name="testCases.TC_002_SignupTestbyOTP">
         <methods>
+          <include name="verify_signup"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="verify_signup"/>
         </methods>
-      </class> <!-- testCases.TC_005_ForgotPassword -->
+      </class> <!-- testCases.TC_002_SignupTestbyOTP -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

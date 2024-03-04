@@ -3,9 +3,10 @@
 <suite name="Suite" thread-count="5" parallel="tests">
   
   <test thread-count="5" name="Chrometest">
+	  <parameter name="os" value="Windows"/>
    <parameter name="browser" value="Chrome">
     <classes>
-     <class name="testCases.TC_001_SignupTest"/>
+     <class name="testCases.TC_001_SignupTestbyVerifyEmail"/>
       </classes>
     </parameter>
   </test> <!-- Test -->
@@ -13,7 +14,7 @@
    <test thread-count="5" name="Edgetest">
    <parameter name="browser" value="Edge">
     <classes>
-     <class name="testCases.TC_001_SignupTest"/>
+     <class name="testCases.TC_001_SignupTestbyVerifyEmail"/>
     </classes>
     </parameter>
   </test> <!-- Test -->

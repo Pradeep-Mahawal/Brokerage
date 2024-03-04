@@ -18,7 +18,7 @@ public class TC_001_SignupTestbyVerifyEmail extends BaseClassREA {
 	
 	
 	{   
-		logger.info("***  Starting TC_001_SignupTest through Email  ***");
+		logger.info("***  Starting TC_001_SignupTest through Email1  ***");
 	    logger.debug("caputuring application debug logs.......");
 		try  
 		{ 
@@ -28,7 +28,7 @@ public class TC_001_SignupTestbyVerifyEmail extends BaseClassREA {
 			TermandConditionPage tc =new TermandConditionPage(driver);
 			DashboardPage db = new DashboardPage(driver);
 			
-			sp.clickSignup();
+			lp.clickSignup();
 			
 			logger.info("*  Providing User Data  *");
 			sp.clearName();
@@ -36,8 +36,8 @@ public class TC_001_SignupTestbyVerifyEmail extends BaseClassREA {
 		    logger.info("*  Name Provided  *");
 		    
 		    sp.clearEmail();
-		    sp.setEmail(p.getProperty("Email"));
-		    logger.info("*  Email Provided  *");
+		    sp.setEmail(p.getProperty("Email11"));
+		    logger.info("*  Email1 Provided  *");
 		    
 		    sp.clearBrokerage();
 		    sp.setBrokerage(p.getProperty("Brokerage"));
@@ -66,8 +66,8 @@ public class TC_001_SignupTestbyVerifyEmail extends BaseClassREA {
 			    driver.navigate().to("https:yopmail.com/");	
 			    logger.info("* Navigate to Yopmail *");
 			    YopmailPage yp = new YopmailPage (driver);
-			    yp.setEmail(p.getProperty("Email"));
-			    logger.info("* Email Entered *");
+			    yp.setEmail(p.getProperty("Email1"));
+			    logger.info("* Email1 Entered *");
 			    yp.clickCheck_Inbox();				    
 			    driver.switchTo().frame("ifmail");	
 			    yp.clickVerifyNow();			    
@@ -91,7 +91,7 @@ public class TC_001_SignupTestbyVerifyEmail extends BaseClassREA {
 					logger.info("*  Providing Username & Pswd  *");
 					sp.clickLogin();
 					lp.clearUserName();
-				    lp.setUserName(p.getProperty("Email"));
+				    lp.setUserName(p.getProperty("Email1"));
 				    lp.clearPassword();
 				    lp.setPassword("Abcd@1234");	    
 				    lp.clickSignIn();
@@ -105,13 +105,13 @@ public class TC_001_SignupTestbyVerifyEmail extends BaseClassREA {
 		    Thread.sleep(15000);    
 		    db.clickProfileMenu();
 		    logger.info("*  Clicked on Profile Menu button  *");
-		    logger.info("Profile Menu Email is --"+db.ProfileEmail()); 
+		    logger.info("Profile Menu Email1 is --"+db.ProfileEmail()); 
 		    
 		    logger.info(db.ProfileEmail());
-		    logger.info(p.getProperty("Email"));
+		    logger.info(p.getProperty("Email1"));
 		    
-		   // boolean targetEmailID=db.isEmailIDExists();	    	    
-		    if   (db.ProfileEmail().equals(p.getProperty("Email")))
+		   // boolean targetEmail1ID=db.isEmail1IDExists();	    	    
+		    if   (db.ProfileEmail().equals(p.getProperty("Email1")))
 			 {
 			    logger.info("Login Test Passed .... ");		   
 			    Assert.assertTrue(true);

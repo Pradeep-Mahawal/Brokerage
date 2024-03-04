@@ -22,7 +22,7 @@
 	 </run>  
   </groups>
     <classes>
-      <class name="testCases.TC_001_SignupTest"/>   
+      <class name="testCases.TC_001_SignupTestbyVerifyEmail"/>   
  
     </classes>
     

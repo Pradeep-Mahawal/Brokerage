@@ -35,7 +35,7 @@ public class TC_002_SignupTestbyOTP extends BaseClassREA {
 		    logger.info("*  Name Provided  *");
 		    
 		    sp.clearEmail();
-		    sp.setEmail(p.getProperty("Email"));
+		    sp.setEmail(p.getProperty("Email2"));
 		    logger.info("*  Email Provided  *");
 		    
 		    sp.clearBrokerage();
@@ -65,7 +65,7 @@ public class TC_002_SignupTestbyOTP extends BaseClassREA {
 			    driver.navigate().to("https:yopmail.com/");	
 			    logger.info("* Navigate to Yopmail *");
 			    YopmailPage yp = new YopmailPage (driver);
-			    yp.setEmail(p.getProperty("Email"));
+			    yp.setEmail(p.getProperty("Email2"));
 			    logger.info("* Email Entered *");
 			    yp.clickCheck_Inbox();				    
 			    driver.switchTo().frame("ifmail");	
@@ -89,7 +89,7 @@ public class TC_002_SignupTestbyOTP extends BaseClassREA {
 					logger.info("*  Providing Username & Pswd  *");
 					sp.clickLogin();
 					lp.clearUserName();
-				    lp.setUserName(p.getProperty("Email"));
+				    lp.setUserName(p.getProperty("Email2"));
 				    lp.clearPassword();
 				    lp.setPassword(p.getProperty("Password"));	    
 				    lp.clickSignIn();
@@ -106,10 +106,10 @@ public class TC_002_SignupTestbyOTP extends BaseClassREA {
 		    logger.info("Profile Menu Email is --"+db.ProfileEmail()); 
 		    
 		    logger.info(db.ProfileEmail());
-		    logger.info(p.getProperty("Email"));
+		    logger.info(p.getProperty("Email2"));
 		    
 		   // boolean targetEmailID=db.isEmailIDExists();	    	    
-		    if   (db.ProfileEmail().equals(p.getProperty("Email")))
+		    if   (db.ProfileEmail().equals(p.getProperty("Email2")))
 			 {
 			    logger.info("Login Test Passed .... ");		   
 			    Assert.assertTrue(true);
