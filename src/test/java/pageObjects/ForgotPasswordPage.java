@@ -10,9 +10,9 @@ public class ForgotPasswordPage extends BasePage {
 
 	
 	//Constructor
-	public ForgotPasswordPage(WebDriver driver) {
-		super(driver);
-		
+	public ForgotPasswordPage(WebDriver driver) 
+	{
+		super(driver);	
 	}
 
 	
@@ -23,7 +23,7 @@ public class ForgotPasswordPage extends BasePage {
 	@FindBy(xpath="//p[@class='cursor-pointer mt-4 pt-2']")WebElement btn_Back_to_login ;
 	
 	 //Actions
-		public void Email (String username)
+		public void setUserName (String username)
 		{inputbox_Email.sendKeys(username);}
 		 
 		public void click_ResetPassword()

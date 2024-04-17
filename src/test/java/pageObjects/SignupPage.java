@@ -27,7 +27,7 @@ public class SignupPage extends BasePage{
 	@FindBy(css="p[class='text-center'] strong") WebElement VerificationLinkMail;
 	//Check your email Page  -- verification link
 	@FindBy(css=".default-btn.signinBtn.mt-4") WebElement Btn_EnterCodeManually;
-	@FindBy(xpath="//form/div[2]/div")WebElement Validation_Msg;
+	@FindBy(xpath="//form/div[2]/div")WebElement Error_Msg;
 	
 	//Check your email Page  -- Code Screen
 	@FindBy(css="input[aria-label='Please enter OTP character 1']")WebElement IB_Code ;
@@ -38,7 +38,7 @@ public class SignupPage extends BasePage{
 	
 
 	
-	//button[normalize-space()='Enter code manually']
+	
 	//Actions
 	
 	public void clickLogin ()
@@ -83,7 +83,7 @@ public class SignupPage extends BasePage{
 	public boolean isErrorMsgExists()   
 	{
 		try {
-			return (Validation_Msg.isDisplayed());
+			return (Error_Msg.isDisplayed());
 		} catch (Exception NoSuchElementException) {
 			return (false);
 		}
@@ -94,7 +94,7 @@ public class SignupPage extends BasePage{
 	
 	
 	public String ErrorMsg()
-	{return Validation_Msg.getText();}
+	{return Error_Msg.getText();}
 	
 	public void clickEnterCodeManually ()
 	{Btn_EnterCodeManually.click();}

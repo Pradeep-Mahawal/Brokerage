@@ -1,39 +1,45 @@
 package testCases;
 
 import java.util.Set;
-
-import org.testng.Assert;
 import org.testng.annotations.Test;
-
+import org.testng.asserts.SoftAssert;
 import pageObjects.DashboardPage;
 import pageObjects.ForgotPasswordPage;
 import pageObjects.LoginPage;
 import pageObjects.SetNewPasswordPage;
+import pageObjects.SignupPage;
 import pageObjects.YopmailPage;
 import testBase.BaseClassREA;
 
 public class TC_005_ForgotPassword extends BaseClassREA {
 
 	@Test(groups = { "sanity" })
-	public void verify_signup() throws InterruptedException {
-		logger.info("***  Starting TC_005_ForgotPassword through Email  ***");
-		logger.debug("caputuring application debug logs.......");
-		try {
+	public void verify_signup() throws InterruptedException 
+	
+	
+	{
+		
+		
+		    SoftAssert myassert = new SoftAssert();
+			logger.info("***  Starting TC_005_ForgotPassword through Email  ***");
+			logger.debug("caputuring application debug logs.......");
+		
 			LoginPage lp=new LoginPage(driver);	
 			ForgotPasswordPage fp=new ForgotPasswordPage(driver);
 			YopmailPage yp = new YopmailPage (driver);
 			SetNewPasswordPage snp = new SetNewPasswordPage (driver);
 			DashboardPage db = new DashboardPage(driver);
+			SignupPage sp = new SignupPage(driver);
 			
-			lp.clickLogIn();
+			sp.clickLogin();
 			lp.clickForgotPassword();
-			fp.Email(p.getProperty("Email"));
+			fp.setUserName(p.getProperty("Email3"));
 			fp.click_ResetPassword();
 			
 			
 			 driver.navigate().to("https:yopmail.com/");	
 			 logger.info("* Navigate to Yopmail *");			    
-			 yp.setEmail(p.getProperty("Email"));
+			 yp.setEmail(p.getProperty("Email3"));
 			 logger.info("* Email Entered *");
 			 yp.clickCheck_Inbox();				    
 			 driver.switchTo().frame("ifmail");
@@ -63,47 +69,25 @@ public class TC_005_ForgotPassword extends BaseClassREA {
 		            }
 			
 		        logger.info("*  Providing Username & Pswd  *");
-				lp.clickLogIn();
+		        sp.clickLogin();
 				lp.clearUserName();
-			    lp.setUserName(p.getProperty("Email"));
+			    lp.setUserName(p.getProperty("Email3"));
 			    lp.clearPassword();
 			    lp.setPassword(p.getProperty("NewPassword"));	    
 			    lp.clickSignIn();
 			    logger.info("*  Clicked on Login button  *");
-			    Thread.sleep(7000);
+			    Thread.sleep(15000);
 			    db.clickProfileMenu();
 			    logger.info("*  Clicked on Profile Menu button  *");
 			    logger.info("Profile Menu Email is --"+db.ProfileEmail()); 
 			    
 			    logger.info(db.ProfileEmail());
-			    logger.info(p.getProperty("Email"));
-			    
-			   // boolean targetEmailID=db.isEmailIDExists();	    	    
-			    if   (db.ProfileEmail().equals(p.getProperty("Email")))
-				 {
-				    logger.info("Login Test Passed .... ");		   
-				    Assert.assertTrue(true);
-				 }
-				   else
-				 {
-					logger.error("Login Test Failed ..");
-					Assert.fail();
-			    	 
-			     }
-				    
-			}
-			
-	
-			
-			
-
-		 catch (Exception e) 
-		{
-			logger.error("*  Test Failed catch block *");
-			Assert.fail();
-		}
-		logger.info("***  Finished TC_005_ForgotPassword  ***");
+			    logger.info(p.getProperty("Email3"));
+			    myassert.assertEquals(db.ProfileEmail(), p.getProperty("Email3"));				    			
+		
+		        logger.info("***  Finished TC_005_ForgotPassword  ***");
 	    }
-	}
+}
+
 
 

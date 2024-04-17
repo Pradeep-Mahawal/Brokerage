@@ -100,7 +100,7 @@ public class BaseClassREA {
 		//WebDriverManager.chromedriver().setup();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(15));
+		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 		driver.get(p.getProperty("b2c_LMS_stagng_URL"));
 	    driver.manage().window().maximize();
 	    

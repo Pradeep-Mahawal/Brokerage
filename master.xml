@@ -4,7 +4,7 @@
  <listeners>
 		<listener class-name="utilities.ExtentReportManager"/>
 	</listeners>
-  <test thread-count="5" name="Test">
+  <test thread-count="1" name="Test">
  <parameter name="os" value="window"/>
  <parameter name="browser" value="Chrome">
     <classes>
@@ -14,7 +14,7 @@
      <class name="testCases.TC_002_SignupTestbyOTP"/>
      <class name="testCases.TC_003_LoginTest"/>
      <class name="testCases.TC_004_LoginDDT"/> 
-     <class name="testCases.TC_005_ForgotPassword"/>
+     <class name="testCases.TC_005_ForgotPassword"/>  
      
     </classes>
     </parameter>

@@ -18,14 +18,14 @@ public class DashboardPage extends BasePage {
 	
 	
 	//Locators 
-	@FindBy(xpath="//div[@id='idClickProfileWeb']") WebElement BtnProfileMenu ;
-	@FindBy(xpath="//h3[normalize-space()='My Dashboard']")WebElement Txtdashboard;
+	@FindBy(css="#idClickProfileWeb") WebElement BtnProfileMenu ;
+	@FindBy(xpath="//a[normalize-space()='Home']")WebElement msgHeading;
 	@FindBy(xpath="//nav//div[@class='proemail']") WebElement Msg_EmailId ;  // User EmailId
 	@FindBy(xpath="//a[normalize-space()='Learn']") WebElement Btn_Learn ;
 	@FindBy(xpath="//a[normalize-space()='Home']") WebElement Btn_Home ;
 	@FindBy(xpath="//a[normalize-space()='Partners']") WebElement Btn_Partners ;
 	@FindBy(xpath="//a[normalize-space()='Subscriptions']") WebElement Btn_Subscriptions ;
-	@FindBy(xpath="//nav//a[8]//div[1]") WebElement Btn_Logout ;
+	@FindBy(xpath="//nav[@class='navbar navbar-expand-lg bg-menu-lightWhite']//a[7]//div[1]") WebElement Btn_Logout ;
 	
 	
 	
@@ -51,10 +51,10 @@ public class DashboardPage extends BasePage {
 		}
 	}
 
-	public boolean isDashboardExists()  // Dashboard id display status
+	public boolean isHomePageExists()  // HomePage id display status
 	{
 		try {
-		    return (Txtdashboard.isDisplayed());
+		    return (msgHeading.isDisplayed());
 		   }  
 		catch(Exception e) 
 		{
