@@ -83,7 +83,7 @@ public class TC_002_SignupTestbyOTP extends BaseClassREA {
 
 				sp.clickContinue();
 				logger.info("*  Providing UserName2 & Pswd  *");
-				sp.clickLogin();
+				//sp.clickLogin();
 				lp.clearUserName();
 				lp.setUserName(p.getProperty("Email2"));
 				lp.clearPassword();

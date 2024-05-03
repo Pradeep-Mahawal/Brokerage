@@ -16,7 +16,7 @@ public class YopmailPage extends BasePage {
 	//Locators 
 	@FindBy(xpath="//input[@id='login']") WebElement IB_Email ;
 	@FindBy(css=".material-icons-outlined.f36") WebElement Btn_CheckInbox ;
-	@FindBy(css="td[valign='top'] strong") WebElement Code ;
+	@FindBy(css="tbody tr p:nth-child(2)") WebElement rawCode ;
 	@FindBy(xpath="//a[normalize-space()='Verify Now']") WebElement Btn_VerifyNow ;
 	@FindBy(xpath="//a[contains(text(),'Reset')]")  WebElement Btn_ResetYourPassword;
 	
@@ -31,8 +31,14 @@ public class YopmailPage extends BasePage {
 	public void clickCheck_Inbox ()
 	{Btn_CheckInbox.click();}
 	
-	public String Code()
-	{return Code.getText();}
+	//public String Code()
+	//{return rawCode.getText();}
+	
+	public String Code() {
+	    String rawText = rawCode.getText();
+	    String lastFourDigits = rawText.substring(rawText.length() - 4);
+	    return lastFourDigits;
+	}
 	
 	public void clickVerifyNow ()
 	{Btn_VerifyNow.click();}

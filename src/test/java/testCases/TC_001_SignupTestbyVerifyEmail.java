@@ -82,7 +82,7 @@ public class TC_001_SignupTestbyVerifyEmail extends BaseClassREA {
 			}
 
 			logger.info("*  Providing Username & Pswd  *");
-			sp.clickLogin();
+			//sp.clickLogin();
 			lp.clearUserName();
 			lp.setUserName(p.getProperty("Email1"));
 			lp.clearPassword();

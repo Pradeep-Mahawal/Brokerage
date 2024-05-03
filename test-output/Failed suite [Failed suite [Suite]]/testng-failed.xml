@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Suite]]]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)(failed)(failed)" verbose="0">
+    <parameter name="os" value="window"/>
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="testCases.TC_002_SignupTestbyOTP">
+        <methods>
+          <include name="verify_signup"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC_002_SignupTestbyOTP -->
+      <class name="testCases.TC_001_SignupTestbyVerifyEmail">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="verify_signup"/>
+        </methods>
+      </class> <!-- testCases.TC_001_SignupTestbyVerifyEmail -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->
